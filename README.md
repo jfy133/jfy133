@@ -3,7 +3,7 @@
 
 🤖 I like automation, metadata, documentation and community projects! 
 
-🧬 My current research focus is currently  on improving throughput of  sequencing data processing and authentication of very old ancient DNA samples. 
+🧬 My current research focus is currently on improving throughput of NGS sequencing data processing, and authentication of very old metagenomic ancient DNA samples. 
 
 ##### Current projects:
 
