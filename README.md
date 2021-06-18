@@ -5,7 +5,7 @@
 
 🧬 My current research focus is currently on improving throughput of NGS sequencing data processing, and authentication of very old metagenomic ancient DNA samples.
 
-👪 I'm currently a core-team member of the [nf-core](https://nf-co.re) initative of standardised Nextflow pipelines and I established the [SPAAM-community](spaam-community.github.io) of ancient metagenomics researchers.
+👪 I'm currently a core-team member of the [nf-core](https://nf-co.re) initative of standardised Nextflow pipelines and I established the [SPAAM-community](https://spaam-community.github.io) of ancient metagenomics researchers.
 
 ##### Current projects:
 
