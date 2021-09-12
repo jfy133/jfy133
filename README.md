@@ -7,6 +7,8 @@
 
 👪 I'm currently a core-team member of the [nf-core](https://nf-co.re) initative of standardised Nextflow pipelines and I established the [SPAAM-community](https://spaam-community.github.io) of ancient metagenomics researchers.
 
+</br>
+
 ## Skills
 
 <img align="left" alt="bash" src="https://img.shields.io/badge/bash%20-171A21.svg?&style=for-the-badge&logo=gnubash&logoColor=white" />
@@ -22,12 +24,14 @@
 
 [<img align="left" alt="orcid" src="https://img.shields.io/badge/orcid-%A6CE39.svg?&style=for-the-badge&logo=orcid&logoColor=white" />](https://orcid.org/0000-0001-5585-6277)
 [<img align="left" alt="google-scholar" src="https://img.shields.io/badge/googlescholar-1DA1F2.svg?&style=for-the-badge&logo=google-scholar&logoColor=white" />](https://scholar.google.com/citations?user=5Wy_JDgAAAAJ&hl=en)
+
 </br>
 
 ## Contact
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/james-fellows-yates-999859179/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/jfy133)
+
 </br>
 
 ## Current projects
@@ -38,6 +42,8 @@
   <a href="https://github.com/SPAAM-community/AncientMetagenomeDir"><img src="https://github.com/SPAAM-community/AncientMetagenomeDir/raw/master/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" height=100> 
   <a href="https://barebonesbash.github.io/"><img src="https://github.com/BareBonesBash/barebonesbash.github.io/raw/master/_images/BareBonesBash_Icon.png" height=100>
 </div>
+    
+</br>
 
 
 
