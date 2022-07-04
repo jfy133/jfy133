@@ -39,8 +39,11 @@
 
 <div style="display: flex; justify-content: space-evenly; align-items:center;">
   <a href="https://github.com/nf-core/eager"><img src="https://github.com/nf-core/eager/blob/master/docs/images/nf-core_eager_logo_outline_drop.png" height=100> 
-  <a href="https://github.com/nf-core/eager"><img src="https://github.com/nf-core/taxprofiler/raw/dev/docs/images/nf-core-taxprofiler_logo_custom_dark.png#gh-dark-mode-only" height=100> 
-  <a href="https://github.com/nf-core/eager"><img src="https://github.com/nf-core/funcscan/raw/dev/docs/images/nf-core-funcscan_logo_flat_dark.png#gh-dark-mode-only" height=100> 
+
+![nf-core/taxprofiler](https://github.com/nf-core/taxprofiler/raw/dev/docs/images/nf-core-taxprofiler_logo_custom_light.png#gh-light-mode-onl) ![nf-core/taxprofiler]([https://github.com/nf-core/funcscan/raw/dev/docs/images/nf-core-funcscan_logo_flat_dark.png#gh-dark-mode-only](https://github.com/nf-core/taxprofiler/raw/dev/docs/images/nf-core-taxprofiler_logo_custom_dark.png#gh-dark-mode-onl))
+
+![nf-core/funscan](https://github.com/nf-core/funcscan/raw/dev/docs/images/nf-core-funcscan_logo_flat_light.png#gh-light-mode-only) ![nf-core/funscan](https://github.com/nf-core/funcscan/raw/dev/docs/images/nf-core-funcscan_logo_flat_dark.png#gh-dark-mode-only)
+    
   <a href="https://github.com/jfy133/cuperdec"><img src="https://github.com/jfy133/cuperdec/blob/master/man/figures/cuperdec_logo.png" height=100> 
   <a href="https://github.com/SPAAM-community/AncientMetagenomeDir"><img src="https://github.com/SPAAM-community/AncientMetagenomeDir/raw/master/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" height=100> 
   <a href="https://barebonesbash.github.io/"><img src="https://github.com/BareBonesBash/barebonesbash.github.io/raw/master/_images/BareBonesBash_Icon.png" height=100>
