@@ -37,12 +37,23 @@
 
 ## Current projects
 
-<div style="display: flex; justify-content: space-evenly; align-items:center;">
-  <a href="https://github.com/nf-core/eager"><img src="https://github.com/nf-core/eager/blob/master/docs/images/nf-core_eager_logo_outline_drop.png" height=100> 
+### Nextflow Pipelines
 
-[nf-core/taxprofiler](https://github.com/nf-core/taxprofiler)
-[nf-core/funcscan](https://github.com/nf-core/funcscan)
-    
+<div style="content: ""; clear: both; display:table">
+    <div style="float:left; width:"33%" padding:5px">
+      <a href="https://github.com/nf-core/eager"><img src="https://github.com/nf-core/eager/blob/master/docs/images/nf-core_eager_logo_outline_drop.png" height=100/> 
+    </div>
+    <div style="float:left; width:"33%" padding:5px">
+      <a href="https://github.com/nf-core/taxprofiler"><img src="https://github.com/nf-core/taxprofiler/raw/dev/docs/images/nf_core_taxprofiler_icon_border.png" height=100/><p>nf-core/taxprofiler</p>
+    </div>
+    <div style="float:left; width:"33%" padding:5px">
+      <a href="https://github.com/nf-core/funcscan"><img src="https://github.com/nf-core/funcscan/raw/dev/docs/images/funscan_icon.png" height=100><p>nf-core/funcscan</p>
+    </div>
+</div>
+
+### Others
+
+<div>
   <a href="https://github.com/jfy133/cuperdec"><img src="https://github.com/jfy133/cuperdec/blob/master/man/figures/cuperdec_logo.png" height=100> 
   <a href="https://github.com/SPAAM-community/AncientMetagenomeDir"><img src="https://github.com/SPAAM-community/AncientMetagenomeDir/raw/master/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" height=100> 
   <a href="https://barebonesbash.github.io/"><img src="https://github.com/BareBonesBash/barebonesbash.github.io/raw/master/_images/BareBonesBash_Icon.png" height=100>
