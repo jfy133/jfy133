@@ -55,7 +55,7 @@
 
 <div>
   <a href="https://github.com/jfy133/cuperdec"><img src="https://github.com/jfy133/cuperdec/blob/master/man/figures/cuperdec_logo.png" height=100> 
-  <a href="https://github.com/SPAAM-community/AncientMetagenomeDir"><img src="https://github.com/SPAAM-community/AncientMetagenomeDir/raw/master/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" height=100> 
+  <a href="https://github.com/SPAAM-community/AncientMetagenomeDir"><img src="https://github.com/SPAAM-community/AncientMetagenomeDir/raw/master/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" height=100> 
   <a href="https://barebonesbash.github.io/"><img src="https://github.com/BareBonesBash/barebonesbash.github.io/raw/master/_images/BareBonesBash_Icon.png" height=100>
 </div>
     
