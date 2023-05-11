@@ -47,7 +47,7 @@
       <a href="https://github.com/nf-core/taxprofiler"><img src="https://github.com/nf-core/taxprofiler/raw/dev/docs/images/nf_core_taxprofiler_icon_border.png" height=100/><p>nf-core/taxprofiler</p>
     </div>
     <div style="float:left; width:"33%" padding:5px">
-      <a href="https://github.com/nf-core/funcscan"><img src="https://github.com/nf-core/funcscan/raw/dev/docs/images/funscan_icon.png" height=100><p>nf-core/funcscan</p>
+      <a href="https://github.com/nf-core/funcscan"><img src="https://github.com/nf-core/funcscan/raw/dev/docs/images/funcscan_icon.svg" height=100><p>nf-core/funcscan</p>
     </div>
 </div>
 
