@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is James
 #### I am a bioinformatician / biomolecular archaeologist, specialising in ancient metagenomics
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jfy133&count_private=true&theme=github_dark&showicons=true&hide=stars)]()
+
 🤖 I like automation, metadata, documentation and community projects! 
 
 🧬 My current research focus is currently on improving throughput of NGS sequencing data processing, and authentication of very old metagenomic ancient DNA samples.
