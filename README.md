@@ -1,15 +1,13 @@
 ### Hi there 👋, my name is James
-#### I am a bioinformatician / biomolecular archaeologist, specialising in ancient metagenomics
+#### I am a bioinformatician / research software engineer, specialising in Nextflow pipelines and (ancient) metagenomics
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jfy133&count_private=true&theme=github_dark&showicons=true&hide=stars)]()
 
-🤖 I like automation, metadata, documentation and community projects! 
+🤖 I like pipelines, metadata, standards, documenting, and community projects! 
 
-🧬 My current research focus is currently on improving throughput of NGS sequencing data processing, and authentication of very old metagenomic ancient DNA samples.
+🧬 My current research focus is currently on improving throughput and reproducibility of (ancient) metagenomic analysis, and developing standards for (meta)data archiving and reporting of ancient DNA sequencing data.
 
-👪 I'm currently a core-team member of the [nf-core](https://nf-co.re) initative of standardised Nextflow pipelines and I established the [SPAAM-community](https://spaam-community.github.io) of ancient metagenomics researchers.
-
-</br>
+👪 I'm currently a core-team member of the [nf-core](https://nf-co.re) initative of standardised Nextflow pipelines and I established the [SPAAM-community](https://spaam-community.github.io) of ancient metagenomics researchers and the [MInAS intiative](https://mixs-minas.org).
 
 ## Skills
 
@@ -32,36 +30,15 @@
 
 ## Contact
 
+[<img align="left" alt="mastodon" src="https://img.shields.io/badge/mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" />](https://www.genomic.social/jfy133)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/james-fellows-yates-999859179/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/jfy133)
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=website&logoColor=white" />](https://jafy.eu)
+
 
 </br>
 
 ## Current projects
 
-### Nextflow Pipelines
-
-<div style="content: ""; clear: both; display:table">
-    <div style="float:left; width:"33%" padding:5px">
-      <a href="https://github.com/nf-core/eager"><img src="https://github.com/nf-core/eager/blob/master/docs/images/nf-core_eager_logo_outline_drop.png" height=100/> 
-    </div>
-    <div style="float:left; width:"33%" padding:5px">
-      <a href="https://github.com/nf-core/taxprofiler"><img src="https://github.com/nf-core/taxprofiler/raw/dev/docs/images/nf_core_taxprofiler_icon_border.png" height=100/><p>nf-core/taxprofiler</p>
-    </div>
-    <div style="float:left; width:"33%" padding:5px">
-      <a href="https://github.com/nf-core/funcscan"><img src="https://github.com/nf-core/funcscan/raw/dev/docs/images/funcscan_icon.svg" height=100><p>nf-core/funcscan</p>
-    </div>
-</div>
-
-### Others
-
-<div>
-  <a href="https://github.com/jfy133/cuperdec"><img src="https://github.com/jfy133/cuperdec/blob/master/man/figures/cuperdec_logo.png" height=100> 
-  <a href="https://github.com/SPAAM-community/AncientMetagenomeDir"><img src="https://github.com/SPAAM-community/AncientMetagenomeDir/raw/master/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" height=100> 
-  <a href="https://barebonesbash.github.io/"><img src="https://github.com/BareBonesBash/barebonesbash.github.io/raw/master/_images/BareBonesBash_Icon.png" height=100>
-</div>
-    
-</br>
-
+See my pinned repositories
 
 <a rel="me" href="https://genomic.social/@jfy133">Mastodon</a>
