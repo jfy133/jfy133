@@ -30,7 +30,7 @@
 
 ## Contact
 
-[<img align="left" alt="mastodon" src="https://img.shields.io/badge/mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" />](https://www.genomic.social/jfy133)
+[<img align="left" alt="mastodon" src="https://img.shields.io/badge/mastodon-6364FF.svg?&style=for-the-badge&logo=mastodon&logoColor=white" />](https://genomic.social/@jfy133)
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/james-fellows-yates-999859179/)
 [<img align="left" alt="website" src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=website&logoColor=white" />](https://jafy.eu)
 
