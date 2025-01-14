@@ -39,6 +39,13 @@
 
 ## Current projects
 
+![Static Badge](https://img.shields.io/badge/nfcore-mag-green?style=for-the-badge&logo=nfcore&logoColor=white&color=%2324B064&link=https%3A%2F%2Fnf-co.re%2Fmag)
+![Static Badge](https://img.shields.io/badge/nfcore-taxprofiler-green?style=for-the-badge&logo=nfcore&logoColor=white&color=%2324B064&link=https%3A%2F%2Fnf-co.re%2Ftaxprofiler)
+![Static Badge](https://img.shields.io/badge/nfcore-createtaxdb-green?style=for-the-badge&logo=nfcore&logoColor=white&color=%2324B064&link=https%3A%2F%2Fnf-co.re%2Fcreatetaxdb)
+![Static Badge](https://img.shields.io/badge/nfcore-funcscan-green?style=for-the-badge&logo=nfcore&logoColor=white&color=%2324B064&link=https%3A%2F%2Fnf-co.re%2Ffuncscan)
+![Static Badge](https://img.shields.io/badge/nfcore-eager-green?style=for-the-badge&logo=nfcore&logoColor=white&color=%2324B064&link=https%3A%2F%2Fnf-co.re%2Feager)
+
+
 See my pinned repositories
 
 <a rel="me" href="https://genomic.social/@jfy133">Mastodon</a>
