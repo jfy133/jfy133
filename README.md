@@ -2,7 +2,7 @@
 #### I am a bioinformatician / research software engineer, specialising in Nextflow pipelines and (ancient) metagenomics
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jfy133&count_private=true&theme=github_dark&showicons=true&hide=stars)]()
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=mirpedrol&&hide_border=true&layout=compact&theme=defaultsize_weight=0.5&count_weight=0.5&hide=html,php)](https://github.com/mirpedrol/github-readme-stats)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=jfy133&&hide_border=true&layout=compact&theme=defaultsize_weight=0.5&count_weight=0.5&hide=html,php)](https://github.com/mirpedrol/github-readme-stats)
 
 🤖 I like pipelines, metadata, standards, documenting, and community projects! 
 
